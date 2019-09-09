@@ -1,1 +1,1 @@
-Two part app. Chrome extension adds download button to any video returned by search on PH, and that unique URL is sent to a python app that converts the viewable link into an mp4 stream that is downloaded and saved.
+App that makes it easy to parse download links from PornHub. Adds download icon next to each video, which after clicked on (if companion python app is running) gets appended to a text file for importing into jDownloader
