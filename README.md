@@ -1,0 +1,1 @@
+Two part app. Chrome extension adds download button to any video returned by search on PH, and that unique URL is sent to a python app that converts the viewable link into an mp4 stream that is downloaded and saved.
